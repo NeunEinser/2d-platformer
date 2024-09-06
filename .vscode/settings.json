@@ -1,0 +1,7 @@
+{
+	"editor.insertSpaces": false, // TABS!!!
+	"files.eol": "\n",
+	"editor.rulers": [
+		100
+	]
+}
