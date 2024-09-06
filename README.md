@@ -2,7 +2,7 @@
 
 A simple datapack for a 2D platformer in Minecraft.
 
-Should in theory work in multiplayer
+Works multiplayer
 
 ## Disclaimer
 
@@ -15,7 +15,7 @@ input predicates
 ## Setup
 
 `/function platformer:aa/set_spawn` - Sets the player spawn. This location should always be loaded.
-`/function platformer:aa/join_game` - Joins the game. Multiplayer should be supported, but untested.
+`/function platformer:aa/join_game` - Joins the game. Multiplayer is supported.
 
 To leave press F3+F4 to switch gamemode.
 You can also use `/function platformer:aa/leave_game`, but it will put you in adventure mode by

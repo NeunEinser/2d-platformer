@@ -4,4 +4,4 @@
 #
 # @handles minecraft:tick
 
-execute as @a[tag=platformer.player,limit=1] run function platformer:tick/player_tick
+execute as @a[tag=platformer.player] run function platformer:tick/player_tick
